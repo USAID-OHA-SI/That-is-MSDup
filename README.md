@@ -1,6 +1,6 @@
 # That-is-MSDup
 **Purpose:** 
-Tracking MSD, Genie, and Pano errors, along with their associated resolutions for the sake of transparancy and benefit to data consumers.
+Tracking MSD, Genie, and Pano errors, along with their associated resolutions for the sake of transparency and benefit to data consumers.
 
 **Process:** 
 If a team member identifies an issue an any of the above data sets or systems, or becomes alerted to one through other means, they should enter it in the [Issues Tab](https://github.com/USAID-OHA-SI/That-is-MSDup/issues) and tag the issue with appropriate [labels](https://github.com/USAID-OHA-SI/That-is-MSDup/labels). Current label categories include:
